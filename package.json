@@ -1,0 +1,28 @@
+{
+  "name": "github-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "concurrently": "^3.5.1",
+    "context": "0.0.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-virtualized": "^9.19.0",
+    "rxjs": "^6.2.0",
+    "rxjs-compat": "^6.1.0",
+    "semantic-ui-react": "^0.80.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
